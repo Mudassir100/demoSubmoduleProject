@@ -1,0 +1,2 @@
+# demoSubmoduleProject
+Practicing git submodule
